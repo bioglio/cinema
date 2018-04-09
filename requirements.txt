@@ -1,0 +1,6 @@
+matplotlib==2.2.2
+networkx==2.1
+numpy==1.14.2
+pandas==0.22.0
+seaborn==0.8.1
+jupyter==1.0.0
